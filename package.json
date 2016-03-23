@@ -1,0 +1,16 @@
+{
+  "name": "jpgcode",
+  "version": "1.0.0",
+  "description": "Jose Pablo Granados",
+  "author": "jpgcode",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "jpgcode",
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
