@@ -16,10 +16,6 @@ As a JSON object.
 console.log(require('jpgcode'));
 ```
 
-# credits
-
-[@bevacqua](https://github.com/jpgcode/jpgcode)
-
 # license
 
 MIT
